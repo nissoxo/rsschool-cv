@@ -1,7 +1,6 @@
 ![myphoto](https://user-images.githubusercontent.com/91736626/147872332-afd83e7d-0554-45e1-9c67-59bd973e004f.jpg "userphoto")
 
 
-
 # **Nisso Abidova**
 ---
 
@@ -13,6 +12,7 @@
 
 * GitHub: @nissoxo
 
+* Discord: Abidova Nisso(@nissoxo)
 
 ---
 
