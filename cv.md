@@ -39,6 +39,7 @@ Student of two universities with a desire to start IT career in a developing com
 ---
 ## **Languages**
 
+* Russian (native)
 
 * English (B2 level; IELTS 6.5; graduated from an English-speaking school; currently studying in two universities in English)
 
