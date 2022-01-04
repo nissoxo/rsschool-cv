@@ -154,11 +154,12 @@ nav ul {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    width: 400px;
+    
     margin: 35px;
     text-align: center;
     list-style: none;
     font-weight: 800;
+    flex-wrap: wrap;
     
 }
 nav li {
